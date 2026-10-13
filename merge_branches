@@ -1,0 +1,9 @@
+C:\Users\AARYA\mcino-Introduction-to-Git-and-GitHub>   git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+C:\Users\AARYA\mcino-Introduction-to-Git-and-GitHub>   git merge bug-fix-typo
+Updating bd2c575..57d886e
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
